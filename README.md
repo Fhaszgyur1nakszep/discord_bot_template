@@ -1,5 +1,7 @@
 # Discord Bot Template 
 
+Follow me: ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClinoEvnpv_TzF4HNNaE5cQ?style=social) | ![Twitch Status](https://img.shields.io/twitch/status/k0nze?style=social) | ![Discord](https://img.shields.io/discord/713121297407672380.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2) | ![Twitter Follow](https://img.shields.io/twitter/follow/k0nze_gg?style=social) 
+
 Simple Discord bot template which posts a random gif when the command `!gif` is issued.
 
 ## Setup Video
