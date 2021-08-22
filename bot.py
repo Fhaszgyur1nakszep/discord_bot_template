@@ -34,7 +34,7 @@ load_dotenv(dotenv_path)
 DISCORD_TOKEN = os.environ.get('DISCORD_TOKEN')
 
 load_dotenv()
-TOKEN = os.getenv('DISCORD_TOKEN')
+TOKEN = os.getenv('ODc5MDA0MDU5MjYzMTg0OTY2.YSJaUg.FsGgIhStCvXc98Lj5orUv9NDm3w')
 
 JSON_FILE = str(os.path.dirname(os.path.realpath(__file__))) + '/data.json'
 
@@ -88,4 +88,4 @@ def get_random_gif_link():
 
 if __name__ == "__main__":
     # launch bot
-    bot.run(DISCORD_TOKEN)
+    bot.run(ODc5MDA0MDU5MjYzMTg0OTY2.YSJaUg.FsGgIhStCvXc98Lj5orUv9NDm3w)
